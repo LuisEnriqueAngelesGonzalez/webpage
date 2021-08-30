@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Luis Enrique Ángeles González</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Dispersal modeling of octopoda paralarvae in the Gulf of Mexico</title>
+      <link>/publication/article_6/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/article_6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling the Pacific chub mackerel (Scomber japonicus) environmental niche and future scenarios in the northern Peruvian Current system</title>
+      <link>/publication/article_10/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/article_10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soft-bottom macrofauna along the coast of Bahía de Los Ángeles, Gulf of California, during the summer and winter</title>
+      <link>/publication/article_7/cite/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/article_7/cite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the effects of warming seas by using the optimal and pejus temperatures of the embryo of three Octopoda species in the Gulf of Mexico</title>
+      <link>/publication/article_4/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/article_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using realized thermal niche to validate thermal preferences from laboratory studies. How do they stand?</title>
+      <link>/publication/article_3/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/article_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global climate changes over time shape the environmental niche distribution of Octopus insularis in the Atlantic Ocean</title>
+      <link>/publication/article_5/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/article_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biomass and distribution of the red octopus (Octopus maya) in the north-east of the Campeche Bank</title>
+      <link>/publication/article_2/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/article_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temperature modulates spatio-temporal variability of the functional reproductive maturation of Octopus maya (Cephalopoda) on the shelf of the Yucatan Peninsula, Mexico</title>
+      <link>/publication/article_1/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/article_1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

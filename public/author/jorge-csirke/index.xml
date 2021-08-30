@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jorge Csirke | Luis Enrique Ángeles González</title>
+    <link>/author/jorge-csirke/</link>
+      <atom:link href="/author/jorge-csirke/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jorge Csirke</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Jorge Csirke</title>
+      <link>/author/jorge-csirke/</link>
+    </image>
+    
+    <item>
+      <title>Modeling the Pacific chub mackerel (Scomber japonicus) environmental niche and future scenarios in the northern Peruvian Current system</title>
+      <link>/publication/article_10/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/article_10/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
