@@ -45,7 +45,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "UNAM"
+org_name = "CICESE"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -93,11 +93,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Puerto de Abrigo s/n", city = "Sisal", region = "Yucatán", postcode = "97356", country = "Mexico", country_code = "MX"}
+address = {street = "Carretera Ensenada - Tijuana No. 3918", city = "Ensenada", region = "Baja California", postcode = "22860", country = "Mexico", country_code = "MX"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "21.1633", longitude = "-90.0481"}
+coordinates = {latitude = "31.868824", longitude = "-116.666389"}
 
 # Directions for visitors to locate you.
 directions = ""

@@ -4,17 +4,17 @@
   
   <url>
     <loc>/publication-type/2/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/angel-f.-gonzalez/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+    <loc>/author/angel-escamilla-ake/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -28,23 +28,38 @@
   </url>
   
   <url>
-    <loc>/publication/article_6/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+    <loc>/author/carlos-rosas/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/ismael-marino-tapia/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+    <loc>/author/carlos-yanez-arenas/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/enrique-martinez-meyer/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/ivan-velazquez-abunader/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jorge-a.-lopez-rocha/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/article_9/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -59,6 +74,81 @@
   
   <url>
     <loc>/author/luis-enrique-angeles-gonzalez/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/luis-osorio-olvera/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/paulina-valeria-guarneros-narvaez/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/source-themes/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/article_8/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/josymar-torrejon-magallanes/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/angel-f.-gonzalez/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/article_6/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ismael-marino-tapia/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,46 +168,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/source-themes/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>/author/elena-solana-arellano/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -134,11 +184,6 @@
   
   <url>
     <loc>/author/jorge-csirke/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/josymar-torrejon-magallanes/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -188,11 +233,6 @@
   </url>
   
   <url>
-    <loc>/author/carlos-rosas/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/claudia-caamal-monsreal/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
@@ -214,16 +254,6 @@
   
   <url>
     <loc>/author/adriana-garcia-rueda/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/carlos-yanez-arenas/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/enrique-martinez-meyer/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   

@@ -5,12 +5,28 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Long-term environmental data explain better the abundance of the red octopus (Octopus maya) when testing the niche centroid hypothesis</title>
+      <link>/publication/article_9/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/article_9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate change effect on Octopus maya (Voss and Solís-Ramírez, 1966) suitability and distribution in the Yucatan Peninsula, Gulf of Mexico; A correlative and mechanistic approach</title>
+      <link>/publication/article_8/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/article_8/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dispersal modeling of octopoda paralarvae in the Gulf of Mexico</title>

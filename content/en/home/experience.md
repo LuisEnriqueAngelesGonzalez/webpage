@@ -22,19 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Laboratory technician
-    company: Cinvestav Unidad Mérida
-    company_url: 'https://cousteau-group.com'
+
+  - title: Postdoctoral researcher
+    company: Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California 
+    company_url: 'https://www.cicese.edu.mx/'
+    location: México, Yucatán, Mérida
+    date_start: '2022-10-01'
+    date_end: '2023-10-01'
+    description: Researching subjects related to climate change.
+
+  - title: Technician
+    company: CINVESTAV Unidad Mérida
+    company_url: 'https://www.mda.cinvestav.mx/'
     location: México, Yucatán, Mérida
     date_start: '2016-01-01'
     date_end: '2017-01-01'
-    description: Laboratory and field technician in the project "Distribución, reproducción, biomasa y patrones de movimiento del pulpo común Octopus vulgaris Cuvier, 1797 en la costa de Yucatán" with financial support of the Consejo Nacional de Ciencia y Tecnología (grant number 237057).
+    description: Laboratory and field technician.
       
-  - title: Laboratory technician
+  - title: Technician
     company: CICESE
     company_url: 'https://www.cicese.edu.mx/'
     location: México, Baja California, Ensenada
     date_start: '2015-01-01'
     date_end:    '2016-01-01'
-    description:  Technician at the Project “Pasto marino Phyllospadix de la costa rocosa al norte de Ensenada”.  Moreover, I was an associate professor in the subjects of Basic, Multivariate and Bayesian statistics helping researchers and students in data analyses. 
+    description:  Laboratory and field technician. Associate professor in Statistic. 
 ---

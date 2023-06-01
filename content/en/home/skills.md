@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 50%
+- description: 70%
   icon: r-project
   icon_pack: fab
   name: R/RStudio
-- description: 80%
+- description: 85%
   icon: globe-americas
   icon_pack: fas
   name: Ecological niche modeling
-- description: 60%
+- description: 70%
   icon: globe-americas
   icon_pack: fas
   name: Species distribution modeling
