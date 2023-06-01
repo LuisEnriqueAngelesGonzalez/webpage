@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Octopus insularis | Luis Enrique Ángeles González</title>
+    <link>/tag/octopus-insularis/</link>
+      <atom:link href="/tag/octopus-insularis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Octopus insularis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Octopus insularis</title>
+      <link>/tag/octopus-insularis/</link>
+    </image>
+    
+    <item>
+      <title>Molecular data, ecological niche, and dispersal models reveal a Trans-Atlantic shallow-water octopus species</title>
+      <link>/publication/article_12/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/article_12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the effects of warming seas by using the optimal and pejus temperatures of the embryo of three Octopoda species in the Gulf of Mexico</title>
+      <link>/publication/article_4/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/article_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global climate changes over time shape the environmental niche distribution of Octopus insularis in the Atlantic Ocean</title>
+      <link>/publication/article_5/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/article_5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Density | Luis Enrique Ángeles González</title>
+    <link>/tag/density/</link>
+      <atom:link href="/tag/density/index.xml" rel="self" type="application/rss+xml" />
+    <description>Density</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Density</title>
+      <link>/tag/density/</link>
+    </image>
+    
+    <item>
+      <title>Biomass and distribution of the red octopus (Octopus maya) in the north-east of the Campeche Bank</title>
+      <link>/publication/article_2/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/article_2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

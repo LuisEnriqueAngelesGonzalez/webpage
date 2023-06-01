@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biosphere reserve | Luis Enrique Ángeles González</title>
+    <link>/tag/biosphere-reserve/</link>
+      <atom:link href="/tag/biosphere-reserve/index.xml" rel="self" type="application/rss+xml" />
+    <description>Biosphere reserve</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Biosphere reserve</title>
+      <link>/tag/biosphere-reserve/</link>
+    </image>
+    
+    <item>
+      <title>Soft-bottom macrofauna along the coast of Bahía de Los Ángeles, Gulf of California, during the summer and winter</title>
+      <link>/publication/article_7/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/article_7/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

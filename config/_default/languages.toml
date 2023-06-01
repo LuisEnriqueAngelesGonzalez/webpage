@@ -11,7 +11,7 @@
 #[es]
 #  languageCode = "es"
 #  contentDir = "content/es"
-#  title = "Edgar Josymar Torrejón Magallanes"
+#  title = ""
 #  [es.params]
 #    description = "Site description in Spanish"
 #  [[es.menu.main]]

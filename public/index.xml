@@ -5,12 +5,36 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Luis Enrique Ángeles González</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Luis Enrique Ángeles González</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Predictions of current and potential global invasion risk in populations of lionfish (Pterois volitans and Pterois miles) under climate change scenarios</title>
+      <link>/publication/article_11/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/article_11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular data, ecological niche, and dispersal models reveal a Trans-Atlantic shallow-water octopus species</title>
+      <link>/publication/article_12/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/article_12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermal optimality and physiological parameters inferred from experimental studies scale latitudinally with marine speciesoccurrences</title>
+      <link>/publication/article_13/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/article_13/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Long-term environmental data explain better the abundance of the red octopus (Octopus maya) when testing the niche centroid hypothesis</title>
@@ -46,9 +70,9 @@
     
     <item>
       <title>Soft-bottom macrofauna along the coast of Bahía de Los Ángeles, Gulf of California, during the summer and winter</title>
-      <link>/publication/article_7/cite/</link>
+      <link>/publication/article_7/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/article_7/cite/</guid>
+      <guid>/publication/article_7/</guid>
       <description></description>
     </item>
     
@@ -57,6 +81,14 @@
       <link>/project/external-project-2/</link>
       <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/project/external-project-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of climate change on Mexican marine resources</title>
+      <link>/project/external-project-3/</link>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/project/external-project-3/</guid>
       <description></description>
     </item>
     
